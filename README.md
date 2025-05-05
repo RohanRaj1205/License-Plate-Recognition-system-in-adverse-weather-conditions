@@ -1,0 +1,2 @@
+# License-Plate-Recognition-system-in-adverse-weather-conditions
+License Plate Recognition with YOLOv8 and EasyOCR  Detects cars and extracts license plate text from images using YOLOv8 and EasyOCR. Processes datasets in adverse weather, outputs annotated images, cropped plates, and a text file. Runs in Google Colab with GPU, using direct uploads. Ideal for computer vision and autonomous vehicle research.
